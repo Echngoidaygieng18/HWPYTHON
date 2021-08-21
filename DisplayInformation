@@ -1,0 +1,9 @@
+Name = "Phạm Văn Tuyến"
+Age = "26"
+Address = "Nam Định"
+Attendingreason = "Learning a new language"
+
+print("My name is " + Name)
+print("I'am " + Age + " years old")
+print("I'm original from " + Address)
+print("My main reason for joining this course is " + Attendingreason)
